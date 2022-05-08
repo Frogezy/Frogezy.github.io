@@ -24,6 +24,9 @@ p {
     font-size: 18px;
     padding-left: 20px;
 }
+form {
+    margin: 2%;
+}
 .italics {
     font-style: italic;
 }
