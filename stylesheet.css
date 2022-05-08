@@ -10,12 +10,6 @@ h1 {
     color: black;
     padding-top: 2%;
 }
-.Shopbio {
-        margin: auto;
-  width: 40%;
-  border: 3px solid black;
-  padding: 10px;
-}
 h2 {
     padding-left: 40%;
     padding-right: 40%;
@@ -27,15 +21,12 @@ p {
     font-size: 18px;
     padding-left: 20px;
 }
-form {
-    margin: 2%;
-}
 .italics {
     font-style: italic;
 }
 .bio {
     margin: auto;
-  width: 60%;
+  width: 40%;
   border: 3px solid black;
   padding: 10px;
 }
@@ -108,7 +99,10 @@ ul.ProductsPage :hover {
     margin-right: auto;
     margin-top: 50px;
     margin-bottom: 15px;
+    width: 1272px;
+    height: 432px;
     text-align: center;
+    color: black;
     border: 5px solid black;
 }
 .column {
